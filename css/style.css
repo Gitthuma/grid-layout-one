@@ -1,6 +1,9 @@
 .grid > * {
   background-color: #4d7298;
   color: #fff;
+  border: 2px solid #77a6b6;
+  border-radius: 0.5em;
+  padding: 00.5em;
 }
 
 .grid {
